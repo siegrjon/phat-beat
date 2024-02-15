@@ -41,3 +41,27 @@ http://listen.181fm.com/181-chilled_128k.mp3
 
 #EXTINF:-1,181 F M Classical
 http://listen.181fm.com/181-classical_128k.mp3
+
+#EXTINF:-1,181 F M ON Electro
+https://0n-electro.radionetz.de/0n-electro.mp3
+
+#EXTINF:-1,181 F M DANCE, ELECTRO & HOUSE BEATS
+http://stream.kissfm.de/kissfm-dance/mp3-128/
+
+#EXTINF:-1,181 F M Electro Swing Revolution Radio
+https://streamer.radio.co/s2c3cc784b/listen
+
+#EXTINF:-1,181 F M SRF 1
+http://stream.srg-ssr.ch/drs1/mp3_128.m3u
+
+#EXTINF:-1,181 F M SRF 2 Kultur
+http://stream.srg-ssr.ch/drs2/mp3_128.m3u
+
+#EXTINF:-1,181 F M SRF 3
+http://stream.srg-ssr.ch/drs3/mp3_128.m3u
+
+#EXTINF:-1,181 F M SRF 4 News
+http://stream.srg-ssr.ch/drs4news/mp3_128.m3u
+
+#EXTINF:-1,181 F M SRF Virus
+http://stream.srg-ssr.ch/drsvirus/mp3_128.m3u
