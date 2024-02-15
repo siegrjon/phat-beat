@@ -17,3 +17,4 @@ packaging/*tar.xz
 library/debian/
 library/blinkt
 sphinx.virtualenv
+/.idea/
